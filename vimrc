@@ -218,8 +218,12 @@ let g:go_highlight_trailing_whitespace_error = 0
 
 let test#strategy = "vimux"
 let test#python#runner = 'nose'
+" let g:rustfmt_autosave = 1
 
 " ========= Shortcuts ========
+
+" Rust
+map <silent> <LocalLeader>rf :RustFmt<CR>
 
 " NERDTree
 map <silent> <LocalLeader>nt :NERDTreeToggle<CR>
