@@ -1,3 +1,7 @@
+## This is a fork
+
+This is Peter Borah's personal fork of the project maintained by @braintreeps. Get the real version at [braintreeps/vim_dotfiles](https://github.com/braintreeps/vim_dotfiles)!
+
 ## Overview
 
 Clone this project directy into `~/.vim`:
